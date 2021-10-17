@@ -1,4 +1,4 @@
-- 👋 Ola, meu nome é Stenio Fonse
+- 👋 Ola, meu nome é Stenio Fonseca
 - 👀 Estou interessado em desevolvimento de sistemas 
 - 🌱 Sou estudante de Ciência e Tecnologia
 
