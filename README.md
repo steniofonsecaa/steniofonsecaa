@@ -1,7 +1,7 @@
-- 👋 Ola, meu nome é Stenio Fonseca
-- 👀 Estou interessado em desenvolvimento de sistemas
-- 🌱 Sou estudante de Ciência e Tecnologia
-- 😃 Não sou iniciante na área de programação, mas estive um tempo afastado
+- 👋 Ola, meu nome é Stenio Fonseca;
+- 👀 Estou interessado em desenvolvimento de sistemas;
+- 🌱 Atualmente estudo Ciência e Tecnologia;
+- 😃 Não sou iniciante na área de programação.
 
 <!---
 steniofonsecaa/steniofonsecaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
