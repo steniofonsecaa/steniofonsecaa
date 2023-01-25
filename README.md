@@ -1,4 +1,4 @@
-- 👋 Ola, meu nome é Stenio Fonseca;
+- 👋 Olá, meu nome é Stenio Fonseca;
 - 👀 Atualmente interessado no desenvlvimento de aplicações web e jogos com linguagem Python;
 - 🌱 Faço faculdad de Ciência e Tecnologia n UFMA;
 - 😃 Não sou iniciante em programação. Tive o primeiro contato no ensino médio através da linguagem C e JAVA.
